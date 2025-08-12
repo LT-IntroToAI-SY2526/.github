@@ -3,10 +3,10 @@
 
 ---
 
-**Instructor**: Mr. Berg  
+**Instructor**: Mr. Robert Berg  
 **Email**: rberg@cps.edu  
 **Pronouns**: he, him, his  
-**Website**: Google Classroom  
+**Website**: [Google Classroom](https://classroom.google.com/)  
 **Office Hours**: After school - by appointment
 
 ---
