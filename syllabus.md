@@ -96,7 +96,7 @@ Students at risk of earning a D or F will meet with me and a parent/guardian to 
 
 ## TURNING IN ASSIGNMENTS
 
-Students will be required to push all assignments to GitHub. All writeups will be completed in a separate file called writeup.md and feedback will be provided on a file in the assignment called rubric.md. Mr. Berg will push back all assignments after regrading on GitHub.
+Students will be required to push all assignments to GitHub. All writeups will be completed in a separate file called `writeup.md` and feedback will be provided on a file in the assignment called `rubric.md`. Mr. Berg will push back all assignments after regrading on GitHub.
 
 ## ACADEMIC INTEGRITY & AI USE
 
