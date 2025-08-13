@@ -13,9 +13,7 @@
 
 ## COURSE DESCRIPTION
 
-This course provides an introduction to Object-Oriented programming in Python while exploring key concepts in Artificial Intelligence. Think of it as a bridge between college-level Programming 1 and Programming 2 courses. 
-
-Our class time includes a mix of journaling, group work, discussions, and hands-on lab time. During lab sessions, you can work solo or team up with classmates - collaboration is encouraged! While projects have clear specifications, there's plenty of room for creativity and extending beyond the basic requirements.
+This course will provide an introduction to Object Oriented programming in Python. Students will get a high level introduction to several concepts that involve Artificial Intelligence. The course is meant to be a bridge between a college level programming 1 and programming 2 course. Class time will include a mix of journaling, group work and group discussion to provide background on programming concepts as well as AI problems and approaches, and lab time to work on in class exercises and the projects themselves. The lab time will be supervised by Mr. Berg. During this time, students may work on their assignments alone, but are also encouraged to work in pairs and groups in order to help their classmates. While the projects are well specified, there is much room for variation by individuals and students are encouraged to continue to extend beyond the scope of the project and be creative.
 
 ## COURSE OBJECTIVES
 
@@ -54,7 +52,7 @@ We use a total points system - everything goes into one category in Aspen. Grade
 
 ## PROJECT WRITE-UPS
 
-All assignments center around project write-ups. While you'll be programming, your grade comes from the write-up, not the code itself. Since any program can be found online these days, I'm more interested in what you learn from the process.
+All assignments center around project write-ups, though some grading will include your code as well. **The majority of your grade comes from the write-up** - I'm more interested in what you learn from the process than just getting the program to work. Since any program can be found online these days, demonstrating your understanding through reflection is what matters most.
 
 You'll also complete current events and article reflections. Find interesting AI-related articles and analyze them - I'm looking for thoughtful analysis, not just summaries. I want to see you thinking critically about how AI impacts our lives now and in the future.
 
@@ -83,12 +81,12 @@ Partial credit applies - if you start but don't complete an assignment, you'll r
 Time management is crucial in project-based learning. All deadlines are announced with plenty of lead time, and the workload is designed to be completed during class time - so use your class time wisely!
 
 **Submission Rules:**
-- **10% penalty per day** for any work submitted after the original due date
-- Everyone can resubmit projects regardless of original score
-- Example: If you resubmit 2 days after the original due date, maximum possible score is 80%
+- Students who submit by the deadline can resubmit without penalty for up to two weeks
+- **Students who initially receive a "missing" grade face a 10% penalty per day** for any submission after the original due date
+- Example: If you have a missing assignment and submit 2 days late, maximum possible score is 80%
 - You have up to two weeks from the original due date to submit or resubmit
 - Email me when you're ready for grading
-- Your new score (minus any late penalties) replaces the original
+- Your new score (minus any applicable late penalties) replaces the original
 - After two weeks, no submissions will be accepted
 
 **Special Circumstances:**
@@ -98,9 +96,7 @@ Students at risk of earning a D or F will meet with me and a parent/guardian to 
 
 ## TURNING IN ASSIGNMENTS
 
-Two-step process:
-1. Complete the write-up on Google Classroom
-2. Upload your program to GitHub Classroom (automatic once you push to your repository)
+Students will be required to push all assignments to GitHub. All writeups will be completed in a separate file called writeup.md and feedback will be provided on a file in the assignment called rubric.md. Mr. Berg will push back all assignments after regrading on GitHub.
 
 ## ACADEMIC INTEGRITY & AI USE
 
