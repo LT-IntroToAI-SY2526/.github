@@ -1,4 +1,5 @@
 # Introduction to AI - Lane Tech College Prep
+
 Mr. Berg | 2025-2026
 
 ## Welcome to Introduction to AI! 🤖
@@ -43,7 +44,8 @@ This course bridges the gap between college-level programming courses while divi
 ### Programming Resources
 - [Python Documentation](https://docs.python.org/3/)
 - [GitHub Classroom](https://classroom.github.com/)
-- Google Classroom (assignments and updates)
+- [Google Classroom](https://classroom.google.com/) (assignments and updates)
+- [Conventional Commit Messages](https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13)
 
 ### AI Resources
 *Links to helpful AI learning resources will be added here*
