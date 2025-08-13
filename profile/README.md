@@ -1,5 +1,5 @@
 # Introduction to AI - Lane Tech College Prep
-** Mr. Berg | 2025-2026 **
+__ Mr. Berg | 2025-2026 __
 
 ## Welcome to Introduction to AI! 🤖
 
