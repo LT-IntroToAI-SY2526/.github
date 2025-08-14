@@ -37,7 +37,7 @@ This course bridges the gap between college-level programming courses while divi
 *Latest updates and important information*
 
 ---
-*Last updated: [Date]*
+*Last updated: [8/13/25]*
 
 ## 🛠️ Resources
 
