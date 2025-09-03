@@ -19,19 +19,26 @@ Don't worry! This is a common issue that's easy to fix. Git just needs to know w
 - Go to **Terminal** → **New Terminal** (or press `Ctrl+Shift+`+` `)
 - You should see a terminal window appear at the bottom of VS Code
 
-### Step 2: Set Your Email
+![Terminal](assets/terminal.png)
+
+### Step 2: Set Your Name
+Type the following command and press Enter:
+```bash
+git config --global user.name "Your Full Name" 
+```
+*Replace "Your Full Name" with your actual name (keep the quotes!)*
+
+![Name](assets/name.png)
+
+### Step 3: Set Your Email
 Type the following command and press Enter:
 ```bash
 git config --global user.email "your-cps-email@cps.edu"
-```
-*Replace "your-cps-email@cps.edu" with your actual CPS email address*
 
-### Step 3: Set Your Name
-Type the following command and press Enter:
-```bash
-git config --global user.name "Your Full Name"
 ```
-*Replace "Your Full Name" with your actual name (keep the quotes!)*
+*Replace  "your-cps-email@cps.edu" with your actual CPS email address*
+
+![Email](assets/email.png)
 
 ### Step 4: Verify It Worked
 You can check that it worked by typing:
@@ -40,6 +47,8 @@ git config --global user.name
 git config --global user.email
 ```
 These should display the name and email you just set.
+
+![Verify](assets/check.png)
 
 ## Example
 Here's what it looks like with actual values:
